@@ -1,1 +1,4 @@
-new file
+---
+title: "SuperTitle"
+date: 2022-08-25
+---
